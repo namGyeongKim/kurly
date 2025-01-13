@@ -1,0 +1,24 @@
+.dropdown-img {
+  width: 25px;
+  margin-right: 10px;
+}
+
+.a-deco {
+  text-decoration: none;
+  color: black;
+}
+
+.a-color-gray {
+  color: gray;
+}
+
+.btn-outline-success {
+  color: purple;
+  border-color: purple;
+}
+
+.btn-outline-success:hover {
+  background-color: purple;
+  color: white;
+  border-color: purple;
+}
